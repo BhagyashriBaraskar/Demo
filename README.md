@@ -1,6 +1,9 @@
-# Demo
-Sales Analysis Report Dashboard (Power BI)
+Sales Analysis Report Dashboard
+
 This project presents a comprehensive Sales Analysis Report built using Power BI, aimed at visualizing and understanding sales performance across various dimensions including time, region, and product category.
+
+Purpose:
+To help businesses and stakeholders quickly assess sales distribution, identify high-performing regions and products, and track yearly performance trends.
 
 Key Features:
 Total KPIs: Displays total quantity sold (275K), distinct orders (31.46K), and total sales (110M).
@@ -17,5 +20,4 @@ Power BI (Desktop)
 DAX (for calculated fields and measures)
 Excel/CSV as the data source (assumed)
 
-Purpose:
-To help businesses and stakeholders quickly assess sales distribution, identify high-performing regions and products, and track yearly performance trends.
+
